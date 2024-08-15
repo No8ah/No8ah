@@ -34,10 +34,14 @@
 
 <p align="center">
 <a href="https://github.com/No8ah"><img src="https://img.shields.io/badge/GitHub-No8ah-blue?logo=github" /></a>
-<img src="https://img.shields.io/badge/QQ-2440420891-green?logo=tencentqq" />
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=No8ah&abbreviated=true&color=yellow" />
+<img alt="Static Badge" src="https://img.shields.io/badge/WeChat-Oxq9213-green?logo=wechat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Gmail-ouzinan6%40gmail.com-red?logo=gmail">
 </p>
+
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/ZiNan%20Ou-blue?logo=linkedin&link=http%3A%2F%2Flinkedin.com%2Fin%2F%E5%AD%90%E6%A5%A0-%E5%8C%BA-0a6178322">
+</p>
+
 
 
 
