@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=15&color=F7A039&multiline=true&width=435&lines=I'm+ZiNan+Ou;Welcome+to+my+HomePage)](https://git.io/typing-svg)
+
 
 ## Languages and Tools  
 <div align="center">  
@@ -9,3 +9,6 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>  
+
+## Github 
+![No8ah's GitHub stats](https://github-readme-stats.vercel.app/api?username=No8ah&show_icons=true&theme=swift&hide=prs&count_private=true&include_all_commits=true)
