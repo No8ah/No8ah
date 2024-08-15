@@ -36,7 +36,7 @@
 <a href="https://github.com/No8ah"><img src="https://img.shields.io/badge/GitHub-No8ah-blue?logo=github" /></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/WeChat-Oxq9213-green?logo=wechat">
 <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-ouzinan6%40gmail.com-red?logo=gmail">
-<img alt="Static Badge" src="https://img.shields.io/badge/ZiNan%20Ou-blue?logo=linkedin&link=http%3A%2F%2Flinkedin.com%2Fin%2F%E5%AD%90%E6%A5%A0-%E5%8C%BA-0a6178322" />
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-ZiNan%20Ou-auto?logo=linkedin&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25E5%25AD%2590%25E6%25A5%25A0-%25E5%258C%25BA-0a6178322%2F">
 </p>
 
 
