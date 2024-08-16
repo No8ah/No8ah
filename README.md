@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,latex,matlab,c,py,md&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cpp,matlab,c,py&theme=light" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=docker,latex,linux,git,github,vscode,md,ubuntu&theme=light" />
   </a>
 </p>
 
