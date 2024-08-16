@@ -39,6 +39,13 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-ZiNan%20Ou-auto?logo=linkedin&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25E5%25AD%2590%25E6%25A5%25A0-%25E5%258C%25BA-0a6178322%2F">
 </p>
 
+<!--
+<div align="center">
+<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+-->
 
 
 
