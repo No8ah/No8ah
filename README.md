@@ -27,6 +27,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,latex,linux,git,github,vscode,md,ubuntu&theme=light" />
+    <img src="https://skillicons.dev/icons?i=anaconda" />
   </a>
 </p>
 
