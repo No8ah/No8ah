@@ -14,6 +14,8 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=No8ah&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </div>  
 
+## What I am trying to do
+
 ## Languages 
 
 <p align="center">
