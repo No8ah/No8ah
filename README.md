@@ -16,6 +16,10 @@
 
 ## What I am trying to do
 
+  1. Mathematics Notes based on Latex
+  2. Projects related to C++
+  3. Projects related to Python
+
 ## Languages 
 
 <p align="center">
