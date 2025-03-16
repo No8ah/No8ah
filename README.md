@@ -16,11 +16,16 @@
 
 ## What I am trying to do
 
-  1. Mathematics Notes based on Latex
+  1. <b>Mathematics Notes</b> based on Latex
   2. Projects related to C++
   3. Projects related to Python
 
 ## Why I want to do all the above
+
+  ### Mathematics Notes with Latex
+
+  - A lot of ``<b>Readers have no trouble proving……</b>'', but the actual truth is……
+  - The corresponding companion answer sets for the exercises are <b>not that detailed</b>
 
 <div align="center">
   <table width="100%" style="table-layout: fixed;">
