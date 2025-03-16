@@ -20,6 +20,22 @@
   2. Projects related to C++
   3. Projects related to Python
 
+## Why I want to do all the above
+
+<div align="center">
+  
+  <figure style="display: inline-block; margin: 10px;">
+    <img src="Arrogance.png" alt="Arrogance" width="300" style="border-radius: 15px;">
+    <figcaption>Arrogance</figcaption>
+  </figure>
+  
+  <figure style="display: inline-block; margin: 10px;">
+    <img src="Not Specific And Detailed.png" alt="Caption 2" width="300" style="border-radius: 15px;">
+    <figcaption>Not that Specific</figcaption>
+  </figure>
+  
+</div>
+
 ## Languages 
 
 <p align="center">
