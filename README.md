@@ -23,17 +23,18 @@
 ## Why I want to do all the above
 
 <div align="center">
-  
-  <figure style="display: inline-block; margin: 10px;">
-    <img src="Arrogance.png" alt="Arrogance" width="300" style="border-radius: 15px;">
-    <figcaption>Arrogance</figcaption>
-  </figure>
-  
-  <figure style="display: inline-block; margin: 10px;">
-    <img src="Not Specific And Detailed.png" alt="Caption 2" width="300" style="border-radius: 15px;">
-    <figcaption>Not that Specific</figcaption>
-  </figure>
-  
+  <table width="100%" style="table-layout: fixed;">
+    <tr>
+      <td align="center" style="width: 50%;">
+        <img src="Arrogance.png" alt="Arrogance" width="400px" height="auto" style="border-radius: 15px;">
+        <div style="text-align: center; font-weight: bold; margin-top: 5px;">Arrogance</div>
+      </td>
+      <td align="center" style="width: 50%;">
+        <img src="Not Specific And Detailed.png" alt="Not that Specific" width="400px" height="auto" style="border-radius: 15px;">
+        <div style="text-align: center; font-weight: bold; margin-top: 5px;">Not that Specific</div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## Languages 
