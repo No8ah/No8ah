@@ -2,6 +2,26 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
 
+<br>
+
+<div align="center">
+
+| 📑 Contents |
+|:--:|
+| [📊 GitHub Stats](#contributions-on-github) |
+| [🎯 Goals](#what-i-am-trying-to-do) |
+| [💡 Motivation](#why-i-want-to-do-all-the-above) |
+| [💻 Languages](#languages) |
+| [🛠️ Tools](#tools) |
+| [📬 Contact](#contact-with-me) |
+
+</div>
+
+<br>
+
+---
+
+
 ## Contributions on Github
 
 <p align="center">
@@ -9,10 +29,10 @@
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=No8ah&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=prs" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=No8ah&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-  
-<div align="center">  
+
+<div align="center">
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=No8ah&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</div>  
+</div>
 
 ## What I am trying to do
 
@@ -42,7 +62,7 @@
   </table>
 </div>
 
-## Languages 
+## Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -73,8 +93,5 @@
 <a href="https://linkedin.com/in/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-</div>  
+</div>
 -->
-
-
-
