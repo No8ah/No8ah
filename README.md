@@ -101,6 +101,27 @@
   </table>
 </div>
 
+## 🤖 AI Tools & Frameworks
+
+<p align="center">
+  <img src="icons/ChatGPT.svg" width="64" title="ChatGPT" />
+  <img src="icons/ClaudeCode.svg" width="64" title="ClaudeCode" />
+  <img src="icons/Codex.svg" width="64" title="Codex" />
+  <img src="icons/Cursor.svg" width="64" title="Cursor" />
+  <img src="icons/Debian.svg" width="64" title="Debian" />
+  <img src="icons/Deepseek.svg" width="64" title="Deepseek" />
+  <img src="icons/DeepseekHarness.svg" width="64" title="DeepseekHarness" />
+  <img src="icons/Gemini.svg" width="64" title="Gemini" />
+  <img src="icons/HTML.svg" width="64" title="HTML" />
+  <img src="icons/Inkscape.svg" width="64" title="Inkscape" />
+  <img src="icons/LangGraph.svg" width="64" title="LangGraph" />
+  <img src="icons/Langchain.svg" width="64" title="Langchain" />
+  <img src="icons/SVG.svg" width="64" title="SVG" />
+  <img src="icons/Ubuntu.svg" width="64" title="Ubuntu" />
+  <img src="icons/Zotero.svg" width="64" title="Zotero" />
+  <img src="icons/drawio.svg" width="64" title="drawio" />
+</p>
+
 ## Languages
 
 <p align="center">
