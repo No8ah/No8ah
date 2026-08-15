@@ -14,6 +14,7 @@
 | [💻 Languages](#languages) |
 | [🛠️ Tools](#tools) |
 | [📬 Contact](#contact-with-me) |
+| [📁 Projects](#projects) |
 
 </div>
 
@@ -33,6 +34,44 @@
 <div align="center">
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=No8ah&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </div>
+
+
+## 📁 Projects
+
+| # | 项目 | 简介 |
+|---|------|------|
+| 1 | [-1](https://github.com/No8ah/-1) | 复盘资料存储 |
+| 2 | 0101-MathematicalAnalysisCJX | - |
+| 3 | [0102-MathematicalAnalysisDDG](https://github.com/No8ah/0102-MathematicalAnalysisDDG) | 数学分析-笔记-邓东皋 |
+| 4 | [0103-RealAnalysis](https://github.com/No8ah/0103-RealAnalysis) | 实变函数-笔记-邓东皋 |
+| 5 | [0104-ComplexAnalysis](https://github.com/No8ah/0104-ComplexAnalysis) | 复变函数-笔记-余家荣 |
+| 6 | [0105-NumericalAnalysis](https://github.com/No8ah/0105-NumericalAnalysis) | 数值分析-笔记-Based on Class |
+| 7 | 0106-OrdinaryDifferentialEquations | - |
+| 8 | 0107-AbstractAlgebra | - |
+| 9 | [0108-AdvancedAlgebra](https://github.com/No8ah/0108-AdvancedAlgebra) | 高等代数-笔记-蓝以中 |
+| 10 | [0109-DiscreteMathematics](https://github.com/No8ah/0109-DiscreteMathematics) | 离散数学-笔记-东北大学 |
+| 11 | [0110-ProbabilityTheory](https://github.com/No8ah/0110-ProbabilityTheory) | 概率论-笔记-李贤平 |
+| 12 | 0111-MathematicalModeling | - |
+| 13 | [0112-UniversityPhysics](https://github.com/No8ah/0112-UniversityPhysics) | 大学物理-笔记-东北大学 |
+| 14 | [0113-ManimMathVisualization](https://github.com/No8ah/0113-ManimMathVisualization) | A collection of mathematical visualizations created with Manim. Exploring calculus, linear algebra, geometry, probability, and mathematical concepts through animations and LaTeX-rendered formulas. |
+| 15 | [0201-ThreeSATProblem](https://github.com/No8ah/0201-ThreeSATProblem) | 基于C++实现的3 - SAT问题 |
+| 16 | [0202-TopKShortestPathsProblem](https://github.com/No8ah/0202-TopKShortestPathsProblem) | 基于C++实现的前K条最短路径问题 |
+| 17 | 0203-DataStructuresAndAlgorithms | - |
+| 18 | 0204-FunPythonPrograms | - |
+| 19 | [0205-DataAnalysisWithPython](https://github.com/No8ah/0205-DataAnalysisWithPython) | Student Sleep Patterns |
+| 20 | 0206-ShellScripts | - |
+| 21 | 0301-AcademicApplication | - |
+| 22 | 0302-MathematicalPaper | - |
+| 23 | 0401-ProductRequirementsDocumentTemplate | - |
+| 24 | [0501-No8ah](https://github.com/No8ah/0501-No8ah) |  |
+| 25 | 0502-Resume | - |
+| 26 | 0601-ConfigTemplates | - |
+| 27 | [0602-ConfigTutorials](https://github.com/No8ah/0602-ConfigTutorials) | Public configuration tutorials — Zotero 坚果云 sync, Git setup, Zotero MCP, and more. |
+| 28 | [0603-GitHubContributionConvention](https://github.com/No8ah/0603-GitHubContributionConvention) | Unified GitHub contribution conventions — Commit, Issue, Pull Request, Code, Version. Cross-repo standards for personal projects and open-source contributions. |
+| 29 | [0701-SkillHub](https://github.com/No8ah/0701-SkillHub) | Personal skill collection hub — created skills (01), collected skills (02), and skill mapping (03). |
+| 30 | 0801-IELTS | - |
+| 31 | [PartialDifferentialEquations](https://github.com/No8ah/PartialDifferentialEquations) | 偏微分方程课程笔记 — course notes, exercises, and figures for PDE (Partial Differential Equations). |
+| 32 | csa2 | - |
 
 ## What I am trying to do
 
