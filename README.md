@@ -101,28 +101,22 @@
   </table>
 </div>
 
-## 🤖 AI Tools & Frameworks
+## 🤖 AI & Agent
 
 <p align="center">
   <img src="icons/ChatGPT.svg" width="64" title="ChatGPT" />
   <img src="icons/ClaudeCode.svg" width="64" title="ClaudeCode" />
   <img src="icons/Codex.svg" width="64" title="Codex" />
-  <img src="icons/Cursor.svg" width="64" title="Cursor" />
-  <img src="icons/Debian.svg" width="64" title="Debian" />
-  <img src="icons/Deepseek.svg" width="64" title="Deepseek" />
-  <img src="icons/DeepseekHarness.svg" width="64" title="DeepseekHarness" />
+  <img src="icons/Deepseek.svg" width="64" title="DeepSeek" />
   <img src="icons/Gemini.svg" width="64" title="Gemini" />
-  <img src="icons/HTML.svg" width="64" title="HTML" />
-  <img src="icons/Inkscape.svg" width="64" title="Inkscape" />
+  <img src="icons/DeepseekHarness.svg" width="64" title="DeepSeek Harness" />
+  <img src="icons/Langchain.svg" width="64" title="LangChain" />
   <img src="icons/LangGraph.svg" width="64" title="LangGraph" />
-  <img src="icons/Langchain.svg" width="64" title="Langchain" />
-  <img src="icons/SVG.svg" width="64" title="SVG" />
-  <img src="icons/Ubuntu.svg" width="64" title="Ubuntu" />
-  <img src="icons/Zotero.svg" width="64" title="Zotero" />
-  <img src="icons/drawio.svg" width="64" title="drawio" />
 </p>
 
-## Languages
+---
+
+## 💻 Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -130,13 +124,41 @@
   </a>
 </p>
 
-## Tools
+---
+
+## 🛠️ Development Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,latex,linux,git,github,vscode,md,ubuntu&theme=light" />
-    <img src="https://skillicons.dev/icons?i=anaconda" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,md,docker&theme=light" />
   </a>
+  <img src="icons/Cursor.svg" width="64" title="Cursor" />
+  <img src="icons/Inkscape.svg" width="64" title="Inkscape" />
+  <img src="icons/HTML.svg" width="64" title="HTML" />
+</p>
+
+---
+
+## 🔬 Research & Visualization
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=latex&theme=light" />
+  </a>
+  <img src="icons/Zotero.svg" width="64" title="Zotero" />
+  <img src="icons/drawio.svg" width="64" title="Draw.io" />
+  <img src="icons/SVG.svg" width="64" title="SVG" />
+</p>
+
+---
+
+## ⚙️ Platforms & Infrastructure
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,anaconda&theme=light" />
+  </a>
+  <img src="icons/Debian.svg" width="64" title="Debian" />
 </p>
 
 ## Contact with me
